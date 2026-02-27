@@ -133,17 +133,6 @@ https://ai-resume-job-matcher-bihgwa4yvhtzh7cpt4ttxp.streamlit.app/
 - 📈 ATS Score Simulation  
 
 ---
-
-## 👨‍💻 Author
-
-Your Name  
-Machine Learning & AI Enthusiast  
-
-GitHub: https://github.com/your-username  
-LinkedIn: Add your LinkedIn profile  
-
----
-
 ## ⭐ Support
 
 If you found this project helpful, consider giving it a ⭐ on GitHub!
